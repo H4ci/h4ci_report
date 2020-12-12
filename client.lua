@@ -22,6 +22,8 @@ Citizen.CreateThread(function()
     end
 end )
 
+reportlistesql = {}
+
 RMenu.Add('report', 'main', RageUI.CreateMenu("Report", "Pour effectuer un report"))
 RMenu.Add('report', 'lister', RageUI.CreateSubMenu(RMenu:Get('report', 'main'), "Liste report", "Pour voir la liste des reports"))
 RMenu.Add('report', 'gestr', RageUI.CreateSubMenu(RMenu:Get('report', 'lister'), "Gestion reports", "Pour gérer les reports"))
