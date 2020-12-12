@@ -6,7 +6,7 @@
 
 print("")
 print("^1Crée par : Haci Petlay^0")
-print("^4Pour : LegendRP.^0")
+print("^4https://discord.gg/Rjv38Ha^0")
 print("")
 
 
