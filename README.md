@@ -8,4 +8,4 @@ Importer le SQL (h4ci_report.sql) dans votre base de données, celui-ci va perme
 
 Mettez votre Steam ID dans le fichier server.lua pour avoir accès à la liste des reports
 
-Le menu s'ouvre avec la commande /report
+Le menu s'ouvre avec la commande /report et les report s'actualise à chaque fois que vous fermer et reouvrer le menu
